@@ -15,15 +15,10 @@ to deliver a fast, clean and responsive User Experience.
 | Frontend     | Backend/Database |
 |--------------|------------------|
 | ReactJS      | Appwrite         |
-|---------------------------------|
 | HTML         | Appwrite Storage |
-|---------------------------------|
 | CSS          | Appwrite Auth    |
-|---------------------------------|
 | TailwindCSS  |                  |
-|---------------------------------|
 | JavaScript   |                  |
------------------------------------
 
 ## 🧠 How It Works
 
